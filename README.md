@@ -274,9 +274,9 @@ I'm currently moving deeper into **engineering fundamentals and scalable systems
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sohan-DevSpace&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="175"/>
+<img src="./profile/stats.svg" height="175" alt="GitHub statistics" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohan-DevSpace&layout=compact&hide_border=true&langs_count=8" height="175"/>
+<img src="./profile/top-langs.svg" height="175" alt="Top languages" />
 
 </div>
 
@@ -294,13 +294,15 @@ I'm currently moving deeper into **engineering fundamentals and scalable systems
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sohan-DevSpace&hide_border=true&area=true" width="95%"/>
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="95%" alt="3D GitHub contribution calendar" />
 
 </div>
 
+> Generated inside this repository with GitHub Actions.
+
 ---
 
-# 🐍 The Contribution Snake
+# 🐍 Contribution Snake
 
 <div align="center">
 

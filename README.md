@@ -306,7 +306,11 @@ I'm currently moving deeper into **engineering fundamentals and scalable systems
 
 <div align="center">
 
-<picture>\n  <source media="(prefers-color-scheme: dark)" srcset="./profile/contribution-snake-dark.svg" />\n  <source media="(prefers-color-scheme: light)" srcset="./profile/contribution-snake.svg" />\n  <img src="./profile/contribution-snake.svg" alt="Contribution Snake" width="95%" />\n</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/contribution-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/contribution-snake.svg" />
+  <img src="./profile/contribution-snake.svg" alt="Contribution Snake" width="95%" />
+</picture>
 
 </div>
 

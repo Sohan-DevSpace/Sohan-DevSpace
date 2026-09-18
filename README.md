@@ -306,7 +306,7 @@ I'm currently moving deeper into **engineering fundamentals and scalable systems
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sohan-DevSpace/Sohan-DevSpace/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+<picture>\n  <source media="(prefers-color-scheme: dark)" srcset="./profile/contribution-snake-dark.svg" />\n  <source media="(prefers-color-scheme: light)" srcset="./profile/contribution-snake.svg" />\n  <img src="./profile/contribution-snake.svg" alt="Contribution Snake" width="95%" />\n</picture>
 
 </div>
 

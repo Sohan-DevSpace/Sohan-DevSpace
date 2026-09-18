@@ -1,404 +1,430 @@
-# 👋 Hey, I'm Sohan Mandal
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=AI+Engineer;Forward+Deployed+Engineer;Flutter+Developer;Software+Developer;Product+Builder;Building+Real-World+Products+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=SOHAN%20MANDAL&fontSize=52&fontAlignY=38&desc=AI%20Engineer%20%7C%20FDE%20%7C%20Flutter%20Developer&descAlignY=58&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
-<p align="center">
-  <a href="https://github.com/Sohan-DevSpace">
-    <img src="https://img.shields.io/badge/GitHub-Sohan--DevSpace-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://in.linkedin.com/in/sohan-mandal-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sohanmandal.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<br/>
 
----
+<a href="https://github.com/Sohan-DevSpace">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=850&lines=AI+Engineer+%E2%80%A2+Forward+Deployed+Engineer;Flutter+Developer+%E2%80%A2+Software+Engineer;Building+AI-powered+products+that+solve+real+problems;Learn+fast.+Build+fast.+Ship+better." alt="Typing Animation"/>
+</a>
 
-## 🧑‍💻 About Me
+<br/>
 
-I'm a **Software Developer, AI Engineer, Forward Deployed Engineer (FDE), and Flutter Developer** focused on building useful products and solving real-world problems with technology.
+<a href="https://github.com/Sohan-DevSpace">
+  <img src="https://img.shields.io/badge/GitHub-Sohan--DevSpace-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://in.linkedin.com/in/sohan-mandal-dev">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+&nbsp;
+<a href="mailto:sohanmandal.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
 
-💼 **Currently working full-time as a Remote Flutter Developer**
+<br/><br/>
 
-I enjoy working across the product lifecycle — from understanding a problem and designing a solution to building, integrating, deploying, and improving the final product.
+<img src="https://komarev.com/ghpvc/?username=Sohan-DevSpace&style=flat-square&label=PROFILE%20VIEWS&color=7C3AED" alt="Profile Views"/>
 
-```text
-🤖 AI Engineering
-        ↓
-📱 Flutter Development
-        ↓
-⚙️ Backend & API Integration
-        ↓
-☁️ Cloud & DevOps
-        ↓
-🚀 Product Development
-```
-
-### What I do
-
-* 🤖 Build and integrate **AI-powered applications**
-* 📱 Develop cross-platform applications with **Flutter**
-* 🧩 Work as a **Forward Deployed Engineer**
-* 🌐 Build modern web applications and backend systems
-* 🔌 Integrate APIs, databases, authentication, and third-party services
-* ☁️ Explore Cloud, DevOps, and scalable infrastructure
-* 🚀 Turn ideas into working products
+</div>
 
 ---
 
-## 💼 Current Role
+## ✦ About Me
 
-### 📱 Remote Flutter Developer
+> **I build software where AI, mobile, backend systems, and product engineering meet.**
 
-**Full-Time · Remote**
+I'm **Sohan Mandal**, a **Software Developer, AI Engineer, Forward Deployed Engineer (FDE), and Flutter Developer**.
 
-Currently working on production software while continuing to expand into **AI engineering, backend systems, cloud infrastructure, and product development**.
+I currently work **full-time remotely as a Flutter Developer**, while expanding deeper into **AI engineering, backend architecture, cloud infrastructure, and scalable systems**.
 
-My goal is to combine **software engineering + AI + product thinking** to build systems that are genuinely useful.
+I enjoy going beyond writing code — understanding the problem, designing the solution, integrating the right technologies, shipping the product, and improving it after real users interact with it.
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 Engineering
+
+* AI-powered applications
+* Flutter & cross-platform apps
+* REST APIs & integrations
+* Backend systems
+* Databases & authentication
+* Cloud & deployment
+* Developer tooling
+
+</td>
+
+<td width="50%">
+
+### 🚀 Product
+
+* SaaS products
+* AI tools
+* Productivity software
+* Developer utilities
+* Startup experiments
+* Real-world problem solving
+* Rapid prototyping → production
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🛠️ Tech Stack
+## ⚡ Current Role
 
-## 📱 Mobile Development
+<div align="center">
+
+### `REMOTE • FULL-TIME`
+
+# 📱 Flutter Developer
+
+**Building production software while growing toward AI + full-stack + systems engineering.**
+
+</div>
+
+---
+
+## 🧩 My Engineering Stack
+
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
+<img src="https://skillicons.dev/icons?i=python,dart,typescript,javascript,java,cpp,html,css" />
 </p>
 
-```text
-Flutter
-Dart
-Cross-Platform Development
-REST API Integration
-State Management
-Authentication
-```
-
----
-
-## 🤖 AI & AI Engineering
-
-```text
-Generative AI
-LLM APIs
-Google Gemini
-AI Application Integration
-Prompt Engineering
-AI Automation
-API-based AI Systems
-```
+### Mobile
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
 </p>
 
----
-
-## 🌐 Frontend
+### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
 </p>
 
----
-
-## ⚙️ Backend
+### Backend & Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgresql,supabase,sqlite" />
 </p>
 
-```text
-REST APIs
-API Integration
-Authentication
-Server-side Logic
-Database Integration
-```
-
----
-
-## 🗄️ Databases
+### Cloud / DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,supabase,sqlite" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,githubactions,vercel" />
 </p>
 
+### AI
+
+<table>
+<tr>
+<td align="center">
+
+**Generative AI**
+
+</td>
+<td align="center">
+
+**LLM APIs**
+
+</td>
+<td align="center">
+
+**Google Gemini**
+
+</td>
+<td align="center">
+
+**AI Integration**
+
+</td>
+<td align="center">
+
+**Automation**
+
+</td>
+</tr>
+</table>
+
 ---
 
-## ☁️ Cloud & DevOps
+# 🚀 Selected Projects
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,githubactions,vercel" />
-</p>
+<div align="center">
+
+|        Project        | What it is                               |           Focus          |
+| :-------------------: | :--------------------------------------- | :----------------------: |
+|   🧭 **TravelMate**   | AI-powered travel planning platform      |    AI · Web · Product    |
+|    📄 **WordToPDF**   | Browser-based DOCX → PDF converter       |    Web · Privacy · UX    |
+| ☁️ **LimitlessCloud** | Experimental cloud file-storage platform | Backend · APIs · Storage |
+|    🛍️ **StyleUrs**   | Modern e-commerce / POD platform         | Web · Commerce · Product |
+
+</div>
+
+### 🧭 TravelMate
+
+**AI-powered travel planning**
+
+Create personalized travel plans and itineraries with AI.
+
+`React` `TypeScript` `Tailwind CSS` `Gemini AI` `Prisma` `SQLite` `Supabase`
+
+**Live:** https://travelmate-app-roan.vercel.app/
+
+---
+
+### 📄 WordToPDF
+
+**Private, browser-first document conversion**
+
+A DOCX → PDF product designed around **local/client-side processing**, with a focus on privacy, speed, and minimal infrastructure.
+
+`React` `TypeScript` `Browser APIs` `Client-side Processing`
+
+**Live:** https://mswordtopdf.com/
+
+---
+
+### ☁️ LimitlessCloud
+
+**Exploring low-cost cloud storage architecture**
+
+A storage platform experimenting with external storage infrastructure, application APIs, databases, and modern web architecture.
+
+`Node.js` `Supabase` `PostgreSQL` `Telegram Bot API` `REST`
+
+---
+
+### 🛍️ StyleUrs
+
+**E-commerce / Print-on-Demand platform**
+
+A modern storefront experience focused on product discovery, customer experience, and scalable application architecture.
+
+`React` `Next.js` `TypeScript` `Tailwind CSS`
+
+---
+
+# 🧠 What I'm Learning
+
+I'm currently moving deeper into **engineering fundamentals and scalable systems**.
 
 ```text
-Cloud Deployment
-CI/CD
-Docker
-Linux
-GitHub Actions
-Vercel
-Supabase
-```
-
----
-
-## 🔧 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🧭 TravelMate
-
-### AI-Powered Travel Planner
-
-TravelMate is an AI-powered travel planning platform designed to help users create personalized travel plans and itineraries.
-
-**Tech Stack**
-
-```text
-React
-TypeScript
-Tailwind CSS
-Google Gemini AI
-Prisma
-SQLite
-Supabase
-Vercel
-```
-
-🌐 **Live Demo:**
-https://travelmate-app-roan.vercel.app/
-
----
-
-## 📄 WordToPDF
-
-### Browser-Based DOCX → PDF Converter
-
-A privacy-focused document conversion product designed around **client-side processing**, reducing the need for backend infrastructure.
-
-**Tech Stack**
-
-```text
-React
-TypeScript
-Browser APIs
-Client-Side Processing
-Modern Web APIs
-```
-
-🌐 **Website:**
-https://mswordtopdf.com/
-
----
-
-## ☁️ LimitlessCloud
-
-### File Storage Platform
-
-An experimental file storage platform exploring a low-cost storage architecture using external infrastructure with a modern web application layer.
-
-**Tech Stack**
-
-```text
-React
-Node.js
-Supabase
-PostgreSQL
-Telegram Bot API
-REST APIs
-```
-
----
-
-## 🛍️ StyleUrs
-
-### E-Commerce / Print-on-Demand Platform
-
-A modern e-commerce platform focused on storefront experience, product discovery, and scalable web development.
-
-**Tech Stack**
-
-```text
-React
-Next.js
-TypeScript
-Tailwind CSS
-```
-
----
-
-# 🧠 Currently Learning
-
-I'm currently focusing on becoming a stronger **end-to-end software engineer**.
-
-```text
-Python
-   ↓
-Data Structures & Algorithms
-   ↓
-Backend Engineering
-   ↓
-System Design
-   ↓
-AI Engineering
-   ↓
-Cloud & DevOps
-   ↓
-Scalable Software Systems
+                    ┌──────────────────────┐
+                    │      PYTHON 🐍       │
+                    └──────────┬───────────┘
+                               ↓
+                    ┌──────────────────────┐
+                    │       DSA 🧠         │
+                    └──────────┬───────────┘
+                               ↓
+                    ┌──────────────────────┐
+                    │  SYSTEM DESIGN 🏗️   │
+                    └──────────┬───────────┘
+                               ↓
+                    ┌──────────────────────┐
+                    │ BACKEND ENGINEERING  │
+                    └──────────┬───────────┘
+                               ↓
+                    ┌──────────────────────┐
+                    │   AI ENGINEERING 🤖  │
+                    └──────────┬───────────┘
+                               ↓
+                    ┌──────────────────────┐
+                    │    CLOUD & DEVOPS ☁️ │
+                    └──────────────────────┘
 ```
 
 ### Current Focus
 
-* 🐍 Python
-* 🧠 Data Structures & Algorithms
-* 🏗️ System Design
-* 🤖 AI Engineering
-* ⚙️ Backend Engineering
-* ☁️ Cloud & DevOps
-* 📱 Advanced Flutter Development
+`Python` · `Data Structures & Algorithms` · `System Design` · `Backend Engineering` · `AI Engineering` · `Cloud` · `DevOps` · `Advanced Flutter`
 
 ---
 
-# 🏗️ What I Like Building
+# 🛠️ Things I Like Building
 
-```text
-🤖 AI Applications
-📱 Mobile Applications
-🌐 SaaS Products
-🛠️ Developer Tools
-⚡ Productivity Tools
-☁️ Cloud-Based Systems
-🔌 API-Driven Applications
-🚀 Startup & Product Ideas
-```
+<div align="center">
 
-I especially enjoy projects where **software + AI + product thinking** come together.
+<table>
+<tr>
+<td align="center">🤖<br/><b>AI Apps</b></td>
+<td align="center">📱<br/><b>Mobile Apps</b></td>
+<td align="center">🌐<br/><b>SaaS</b></td>
+<td align="center">🛠️<br/><b>Developer Tools</b></td>
+</tr>
+<tr>
+<td align="center">☁️<br/><b>Cloud Systems</b></td>
+<td align="center">⚙️<br/><b>Automation</b></td>
+<td align="center">🔌<br/><b>APIs</b></td>
+<td align="center">🚀<br/><b>Products</b></td>
+</tr>
+</table>
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Sohan-DevSpace&show_icons=true&hide_border=true&rank_icon=github"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohan-DevSpace&layout=compact&hide_border=true"
-    height="180"
-  />
-</p>
+</div>
 
 ---
 
-# 🔥 Contribution Streak
+# 📊 GitHub Overview
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Sohan-DevSpace&hide_border=true"
-  />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Sohan-DevSpace&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="175"/>
 
-# 🐍 Contribution Activity
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohan-DevSpace&layout=compact&hide_border=true&langs_count=8" height="175"/>
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Sohan-DevSpace/Sohan-DevSpace/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
+</div>
 
----
+<br/>
 
-# 💡 Developer Philosophy
+<div align="center">
 
-> **Build. Ship. Learn. Improve. Repeat.**
+<img src="https://streak-stats.demolab.com?user=Sohan-DevSpace&hide_border=true" width="700"/>
 
-I believe real engineering comes from building things that solve actual problems.
-
-Learning a technology is useful.
-
-**Using it to build something valuable is better.**
+</div>
 
 ---
 
-# 🎯 Goals
+# 📈 Contribution Activity
 
-### Technical
+<div align="center">
 
-* [ ] Master **Python**
-* [ ] Become strong in **DSA**
-* [ ] Learn **System Design**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sohan-DevSpace&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+---
+
+# 🐍 The Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Sohan-DevSpace/Sohan-DevSpace/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+# 🎯 2026 → Next Level
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Engineering
+
+* [ ] Deepen Python
+* [ ] Master DSA
+* [ ] Learn System Design
 * [ ] Build scalable backend systems
-* [ ] Go deeper into **AI Engineering**
-* [ ] Improve Cloud & DevOps expertise
-* [ ] Build production-grade applications
+* [ ] Go deeper into AI Engineering
+* [ ] Improve Cloud & DevOps
+* [ ] Build stronger production systems
+
+</td>
+
+<td width="50%" valign="top">
 
 ### Product
 
 * [ ] Launch more products
-* [ ] Build useful SaaS tools
-* [ ] Experiment with AI-first products
+* [ ] Build AI-first tools
+* [ ] Create useful SaaS products
 * [ ] Contribute to Open Source
-* [ ] Build products that solve real-world problems
+* [ ] Experiment with new ideas
+* [ ] Turn more side projects into real products
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🌎 Open to
+# 🧬 My Build Loop
+
+<div align="center">
 
 ```text
-🤝 Collaboration
-🚀 Startup Ideas
-🤖 AI Projects
-📱 Flutter Projects
-🛠️ Developer Tools
-🌐 Open Source
-💡 Interesting Technical Problems
+      IDEA
+       │
+       ▼
+   UNDERSTAND
+       │
+       ▼
+     DESIGN
+       │
+       ▼
+      BUILD
+       │
+       ▼
+      SHIP
+       │
+       ▼
+     MEASURE
+       │
+       ▼
+     IMPROVE
+       │
+       └───────────────► 🔁
 ```
 
----
-
-# 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Sohan-DevSpace">
-    <img src="https://img.shields.io/badge/GitHub-Sohan--DevSpace-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="https://in.linkedin.com/in/sohan-mandal-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-Sohan%20Mandal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:sohanmandal.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-sohanmandal.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <b>🚀 Building the future, one project at a time.</b>
-</p>
+# 💡 Engineering Philosophy
 
-<p align="center">
-  <i>Code • Learn • Build • Ship</i>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sohan-DevSpace&style=flat-square&color=blue" alt="Profile views" />
-</p>
+### `BUILD > TALK`
+
+**Learn by building.**
+
+**Understand before abstracting.**
+
+**Ship before perfecting.**
+
+**Improve from real feedback.**
+
+</div>
+
+---
+
+# 🤝 Let's Build Something
+
+I'm interested in:
+
+`AI` · `Flutter` · `Software Engineering` · `SaaS` · `Developer Tools` · `Cloud` · `Startups` · `Open Source`
+
+<div align="center">
+
+<a href="https://github.com/Sohan-DevSpace">
+<img src="https://img.shields.io/badge/GITHUB-Follow%20%26%20Explore-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://in.linkedin.com/in/sohan-mandal-dev">
+<img src="https://img.shields.io/badge/LINKEDIN-Let's%20Connect-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="mailto:sohanmandal.dev@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-Say%20Hello-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ `CODE • BUILD • SHIP • REPEAT`
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
